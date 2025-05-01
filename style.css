@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
-    color: #41364b;
+    color: #3f0872;
 }
 
 body {
@@ -58,7 +58,7 @@ background-color: #e9e2ec;
 .img {
     height: 6rem;
     width: 6rem;
-    background-image: url(./profile/s-l1200.jpg);
+    background-image: url(./eu.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 50%;
